@@ -1,0 +1,9 @@
+%CODIGO;NOMBRE;APELLIDOS;PESO;ESTATURA
+%
+001-100;Pepe;Pérez Cortez;50;1.90
+002-201;Juan;Castro BenÃ­tez;60.1;1.70
+003-350;María Fernanda;Zambrano Romero;70.5;1.80;
+001-720;Fernanda;Taipe Cruz;80;1.80
+001-440;Karla;Cueva Troya;55;1.65;
+002-555;Roberto Rafael;Gutiérrez;90.5;1.78
+004-923;Fernando;Cruz;60;1,80

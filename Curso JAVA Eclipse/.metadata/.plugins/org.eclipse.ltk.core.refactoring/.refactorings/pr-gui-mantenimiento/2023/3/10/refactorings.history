@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;persona&apos; in &apos;gui.FrmPrincipal.modeloTabla.new GenericDomainTableModel() {...}.setValueAt(...)&apos; to &apos;obj&apos;&#x0D;&#x0A;- Original project: &apos;pr-gui-mantenimiento&apos;&#x0D;&#x0A;- Original element: &apos;gui.FrmPrincipal.modeloTabla.new GenericDomainTableModel() {...}.setValueAt(Object, int, int).persona&apos;&#x0D;&#x0A;- Renamed element: &apos;persona&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;persona&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;gui{FrmPrincipal.java[FrmPrincipal^modeloTabla[~setValueAt~QObject;~I~I@persona!5047!5090!5055!5061!QCliente;!0!false" name="obj" references="true" stamp="1678154024809" version="1.0"/>
+</session>

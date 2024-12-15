@@ -1,0 +1,10 @@
+%ID;NOMBRE;APELLIDOS;EDAD;ESTATURA
+%
+100;Pepe;Pérez Cortez;25;1.90;
+201;Juan;Castro Benítez;60;1.70
+350;María Fernanda;Zambrano Romero;27;1.80;
+720;Fernanda;Taipe Cruz;;1.80
+440;Karla;Cueva Troya;38;1.65
+555;Roberto Rafael;Gutiérrez;19;1.78
+923;Fernando;Cruz;;1,80
+

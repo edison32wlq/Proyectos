@@ -1,0 +1,9 @@
+%CARNET;NOMBRE;APELLIDOS;EDAD;ESTATURA
+%
+001-100;Pepe;Pérez Cortez;25;1.90
+002-201;Juan;Castro Benítez;60;1.70
+003-350;María Fernanda;Zambrano Romero;27;1.80;
+001-720;Fernanda;Taipe Cruz;22;1.80
+001-440;Karla;Cueva Troya;38;1.65;
+002-555;Roberto Rafael;Gutiérrez;;1.78
+004-923;Fernando;Cruz;19;1,80

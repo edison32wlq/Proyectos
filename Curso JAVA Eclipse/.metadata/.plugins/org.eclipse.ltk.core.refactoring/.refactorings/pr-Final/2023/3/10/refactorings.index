@@ -1,0 +1,19 @@
+1678594016906	Rename type 'VtnContenedora'
+1678594266701	Move compilation unit
+1678594608061	Rename field 'pnlEast'
+1678595661902	Delete element
+1678595665391	Delete element
+1678595686231	Rename type 'DlgAutor'
+1678595947529	Rename field 'btncolor'
+1678595967682	Rename field 'spinner'
+1678596425106	Rename type 'BarraMenu'
+1678596441162	Rename type 'BarraTarea'
+1678596500394	Rename field 'pnltxt'
+1678596524134	Rename method 'iniToolbar'
+1678596547174	Rename method 'iniMenu'
+1678596576637	Rename field 'autores'
+1678596624315	Rename type 'EventosVentanaContenedora'
+1678596650547	Rename type 'EventosMenu'
+1678596681748	Rename type 'EventosBarraTarea'
+1678596696726	Rename field 'txt'
+1678596735905	Rename field 'contenido'

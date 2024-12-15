@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;FrmFlowLayout&apos; to &apos;FrmBorderLayout&apos;&#x0D;&#x0A;- Original project: &apos;pr-gui-Borderlayout2&apos;&#x0D;&#x0A;- Original element: &apos;FrmFlowLayout&apos;&#x0D;&#x0A;- Renamed element: &apos;FrmBorderLayout&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;FrmFlowLayout&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{FrmFlowLayout.java[FrmFlowLayout" matchStrategy="1" name="FrmBorderLayout" qualified="false" references="true" similarDeclarations="false" stamp="1677181586910" textual="true" version="1.0"/>
+</session>
