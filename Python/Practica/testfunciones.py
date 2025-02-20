@@ -1,0 +1,4 @@
+import funcion
+
+funcion.obtener() 
+
